@@ -1,5 +1,5 @@
 
-# 🛠️ BareMetal-8051: Assembly Solutions Lab
+# 🛠️ BareMetal-8051: Assembly  
 
 Zbiór projektów niskopoziomowych opracowanych na architekturę **MCS-51 (8051)**. Każdy z programów został zaprojektowany, aby rozwiązać konkretny problem z zakresu systemów wbudowanych – od prostej automatyki po cyfrowe przetwarzanie sygnałów.
 
