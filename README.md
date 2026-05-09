@@ -14,10 +14,10 @@ Wszystkie programy zawarte w tym repozytorium zostały napisane, skompilowane i 
 
 | Projekt | Opis kluczowych zagadnień | Wykorzystane komponenty |
 | :--- | :--- | :--- |
-| **[01. Motor Control](./01-Motor-Control)** | Sterowanie cykliczne silnikiem, zmiana kierunku. | Timer 0 (M1), Timer 1 (M2) |
-| **[02. Keyboard Division](./02-Keyboard-Division)** | Arytmetyka i walidacja wejścia z klawiatury. | Klawiatura matrycowa, 7-seg LED |
-| **[03. BCD Converter](./03-BCD-Converter)** | Konwersja systemów liczbowych i I/O. | Klawiatura, Pasek LED |
-| **[04. Signal Processing](./04-Signal-Processing)** | Akwizycja ADC, wzmocnienie i algorytm nasycenia. | Przerwania (INT0), ADC/DAC |
-| **[05. Smart Counter](./05-Smart-Counter)** | Maszyna stanów, autokorekta zakresu DEC/HEX. | SW-Control, Edge Triggering |
+| **01-Motor-Control** | Sterowanie cykliczne silnikiem, zmiana kierunku. | Timer 0 (M1), Timer 1 (M2) |
+| **02-Keyboard Division** | Arytmetyka i walidacja wejścia z klawiatury. | Klawiatura matrycowa, 7-seg LED |
+| **03-BCD-Converter** | Konwersja systemów liczbowych i I/O. | Klawiatura, Pasek LED |
+| **04-Signal-Processing** | Akwizycja ADC, wzmocnienie i algorytm nasycenia. | Przerwania (INT0), ADC/DAC |
+| **05-Smart-Counter** | Maszyna stanów, autokorekta zakresu DEC/HEX. | SW-Control, Edge Triggering |
 
 ---
